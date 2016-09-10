@@ -1,0 +1,11 @@
+References	Qty	Description	Manufacturer	MPN	Mouser
+"R1, R3, R4"	3	Resistor	Vishay	CCF601K00FKE36	71-CCF60-1K-E3
+"C1, C2, C3"	3	Polarized Capacitor (Radial)	Vishay	MAL203836101E3	594-MAL203836101E3
+R2	1	Potentiometer	Bourns	PDA241-SRT02-103A2	652-PDA241SRT02103A2
+P+	1	Plug			
+P-	1	Plug			
+P	1	"Header, 2-Pin"			
+U1	1	Audio Power Amplifier	TI	LM3886TF	926-LM3886TF
+LS	1	Loudspeaker			
+S	1	Jumper			
+R5	1	Resistor	Vishay	CPF222K000FKE14	71-CPF222K000FKE14
