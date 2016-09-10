@@ -1,1 +1,1 @@
-The xCORE-AUDIO Hi-Res DAC/Headphone Amp Reference Platform is an optimized evaluation board for xCORE-AUDIO Hi-Res 2 developers. xCORE-AUDIO Hi-Res 2 devices offer stereo high-resolution audio interfacing capabilities to deliver precise output with low noise/distortion for soothing, high-quality sound at a price-point that is affordable for mas…
+Simple LM3886TF amplifier.
